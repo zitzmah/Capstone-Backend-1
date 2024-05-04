@@ -7,8 +7,8 @@
 | Bloodbanking App | {Blood Bank Testing}|
 | Description | {I am building a full CRUD application that allows the users to add new patients and add and modify blood bank testing to the patient chart.} |
 | Developers | {Haley Zitzmann} |
-| Live Website | {} |
-| Repo | {} |
+| Live Website | {https://capstone-backend-1-gqhh.onrender.com/patient/} |
+| Repo | {https://github.com/zitzmah/Capstone-Backend-1} |
 
 ## User Stories
 
